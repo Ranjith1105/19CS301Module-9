@@ -196,7 +196,7 @@ if isThoeplitz(A):
 
 ### Result: Thus, the given program is implemented and executed successfully.
 
-### SEB:
+### SEB: Extracting strong numbers
 
 
 ### Aim: 
